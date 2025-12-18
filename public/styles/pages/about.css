@@ -1,0 +1,10 @@
+/* ==================== */
+/* About Page           */
+/* ==================== */
+.about-page {
+  max-width: 700px;
+}
+
+.services-list {
+  list-style-type: disc;
+}
