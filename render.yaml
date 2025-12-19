@@ -1,7 +1,7 @@
 services:
   - type: web
     name: zuWebsite
-    env: static
+    runtime: static
     staticPublishPath: ./public
     routes:
       - type: rewrite
